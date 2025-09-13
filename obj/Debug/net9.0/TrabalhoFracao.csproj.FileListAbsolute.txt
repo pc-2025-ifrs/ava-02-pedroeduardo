@@ -1,0 +1,14 @@
+C:\ProgramacaoCorporativa\TrabalhoFracao\bin\Debug\net9.0\TrabalhoFracao.exe
+C:\ProgramacaoCorporativa\TrabalhoFracao\bin\Debug\net9.0\TrabalhoFracao.deps.json
+C:\ProgramacaoCorporativa\TrabalhoFracao\bin\Debug\net9.0\TrabalhoFracao.runtimeconfig.json
+C:\ProgramacaoCorporativa\TrabalhoFracao\bin\Debug\net9.0\TrabalhoFracao.dll
+C:\ProgramacaoCorporativa\TrabalhoFracao\bin\Debug\net9.0\TrabalhoFracao.pdb
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.AssemblyInfoInputs.cache
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.AssemblyInfo.cs
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.csproj.CoreCompileInputs.cache
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.dll
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\refint\TrabalhoFracao.dll
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.pdb
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\TrabalhoFracao.genruntimeconfig.cache
+C:\ProgramacaoCorporativa\TrabalhoFracao\obj\Debug\net9.0\ref\TrabalhoFracao.dll
